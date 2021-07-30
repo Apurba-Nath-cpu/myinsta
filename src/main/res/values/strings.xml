@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My insta</string>
+    <string name="messages">messages</string>
+    <string name="home">home</string>
+    <string name="nice_pic">nice pic</string>
+    <string name="search_icon">search_icon</string>
+    <string name="status1">status1</string>
+    <string name="instaicon">instaicon</string>
+    <string name="newpost">newpost</string>
+    <string name="likes">likes</string>
+    <string name="account">account</string>
+    <string name="reels">reels</string>
+    <string name="status_of_person_2">status of person 2</string>
+    <string name="status_of_person_3">status of person 3</string>
+    <string name="status_of_person_4">status of person 4</string>
+    <string name="status_of_person_5">status of person 5</string>
+</resources>
